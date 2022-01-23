@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/static/js/main.f9821795.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.549b6713.js",
+    "static/js/2.9449a45b.chunk.js": "/static/js/2.9449a45b.chunk.js",
+    "static/js/3.2090785b.chunk.js": "/static/js/3.2090785b.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.9449a45b.chunk.js.LICENSE.txt": "/static/js/2.9449a45b.chunk.js.LICENSE.txt",
+    "static/media/1.659fee3b.webp": "/static/media/1.659fee3b.webp",
+    "static/media/2.d3c17790.webp": "/static/media/2.d3c17790.webp",
+    "static/media/3.277459fa.webp": "/static/media/3.277459fa.webp",
+    "static/media/4.768f61df.webp": "/static/media/4.768f61df.webp",
+    "static/media/header.a3ae8821.jpg": "/static/media/header.a3ae8821.jpg",
+    "static/media/twitch-logo-png-1883.6315ba30.png": "/static/media/twitch-logo-png-1883.6315ba30.png",
+    "static/media/youtube-logo-png-2075.9843cdfd.png": "/static/media/youtube-logo-png-2075.9843cdfd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.549b6713.js",
+    "static/js/2.9449a45b.chunk.js",
+    "static/js/main.f9821795.chunk.js"
+  ]
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "league of legends",
+    "image": "lol.png",
+    "file": "lol"
+  },
+  {
+    "name": "rocket league",
+    "image": "rl.jpg",
+    "file": "rl"
+  },
+  {
+    "name": "dota 2",
+    "image": "dota2.jpg",
+    "file": "dota2"
+  },
+  {
+    "name": "overwatch",
+    "image": "overwatch.png",
+    "file": "ow"
+  },
+  {
+    "name": "valorant",
+    "image": "valorant-1.jpg",
+    "file": "lol"
+  },
+  {
+    "name": "call of duty- modern warfare",
+    "image": "cdmw.jpg",
+    "file": "codmw"
+  },
+  {
+    "name": "rainbow six siege",
+    "image": "r6siege.jpg",
+    "file": "r6siege"
+  },
+  {
+    "name": "pubg-pc",
+    "image": "pubg_pc.jpg",
+    "file": "pubg_pc"
+  }
+]

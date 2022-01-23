@@ -1,0 +1,23 @@
+[
+  {
+    "Author": "shubham",
+    "Category": ["category"],
+    "Featured Media URL": "https://afterplay.xyz/wp-content/uploads/2021/08/VCT_M3_BERLIN_Article_Banner_05052021.jpg",
+    "Post Content": [
+      {
+        "Color": "white",
+        "Content type": "paragraph",
+        "Position": "center",
+        "Post Data": "G2 and Gambit esports qualifies for Valorant master’s in berlin after a long run in lower’s bracket.  G2 match was against Gaint Gaming in a best of 3 series in which they came on top beating 2-1."
+      },
+      {
+        "Content type": "html",
+        "Position": "center",
+        "Post Data": "<div class=\"twitter-tweet twitter-tweet-rendered\" style=\"display: flex; max-width: 550px; width: 100%; margin-top: 10px; margin-bottom: 10px;\"><iframe id=\"twitter-widget-0\" scrolling=\"no\" frameborder=\"0\" allowtransparency=\"true\" allowfullscreen=\"true\" class=\"\" style=\"position: static; visibility: visible; width: 372px; height: 548px; display: block; flex-grow: 1;\" title=\"Twitter Tweet\" src=\"https://platform.twitter.com/embed/Tweet.html?dnt=false&amp;embedId=twitter-widget-0&amp;features=eyJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2hvcml6b25fdHdlZXRfZW1iZWRfOTU1NSI6eyJidWNrZXQiOiJodGUiLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3NwYWNlX2NhcmQiOnsiYnVja2V0Ijoib2ZmIiwidmVyc2lvbiI6bnVsbH19&amp;frame=false&amp;hideCard=false&amp;hideThread=false&amp;id=1428467282007703568&amp;lang=en&amp;origin=https%3A%2F%2Fafterplay.xyz%2F2021%2F08%2F20%2Fg2-and-gambit-qualifies-for-valorant-masters-in-berlin%2F&amp;sessionId=daf20fa5e232c026f3b10845139e23bab495b9bf&amp;theme=light&amp;widgetsVersion=9fd78d5%3A1638479056965&amp;width=550px\" data-tweet-id=\"1428467282007703568\"></iframe></div><script async=\"\" src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><script async=\"\" src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+      }
+    ],
+    "Post Title": "G2 AND GAMBIT ESPORTS QUALIFIES FOR MASTERS IN BERLIN ",
+    "Post Type": "news",
+    "Tags": ["this is tag"]
+  }
+]
